@@ -31,7 +31,32 @@
 
 ---
 
-### 📊 GitHub Stats
+### � Featured Projects
+
+<p align="center">
+  <a href="https://github.com/VincentPit/MultiAgents4Copilot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VincentPit&repo=MultiAgents4Copilot&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/VincentPit/GraphBuilder">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VincentPit&repo=GraphBuilder&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/VincentPit/Bi_Memit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VincentPit&repo=Bi_Memit&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/VincentPit/CSLGraphBuilder">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VincentPit&repo=CSLGraphBuilder&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/VincentPit/StockGang">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VincentPit&repo=StockGang&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/VincentPit/MAE_SIMP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VincentPit&repo=MAE_SIMP&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+### �📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentPit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
